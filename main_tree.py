@@ -7,7 +7,7 @@ from ete3 import Tree
 import random
 import six
 import sys
-sys.path.append("tree generation/")
+sys.path.append("tree_generation/")
 
 from tree_set import *
 from tree_compare import *

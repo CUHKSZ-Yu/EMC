@@ -18,6 +18,7 @@ This Github repository contains the implementation of our proposed *Embedding-ba
 ./README.md                     - This readme file.
 ./main_miss.m                   - Demo of correction on incomplete trees.
 ./main_noise.m                  - Demo of correction on noisy tree distance.
+./main_tree.py                  - Demo of generation of phylogenetic trees and corresponding RF distance matrices.
 ./eval_distance.m               - Evaluation function for corrected distance matrices. 
 
 |baselines/                     - Some distance correction methods.
@@ -37,7 +38,7 @@ This Github repository contains the implementation of our proposed *Embedding-ba
 
 ## Citation
 
-If you find this code useful for your research, please use the following BibTeX entry.
+If you find this code useful for your research, please use the following BibTeX entry. (to be published)
 
 ```
 @inproceedings{yu2023rf,
