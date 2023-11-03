@@ -1,4 +1,4 @@
-# **EMC**: **E**mbedding-based **M**atrix **C**orrection
+# **ECAI2023-EMC**: **E**mbedding-based **M**atrix **C**orrection
 The source code for the ECAI'2023 paper titled "**Highly-Efficient Robinson-Foulds Distance Estimation with Matrix Correction**".
 
 ## Introduction
@@ -38,13 +38,14 @@ This Github repository contains the implementation of our proposed *Embedding-ba
 
 ## Citation
 
-If you find this code useful for your research, please use the following BibTeX entry. (to be published)
+If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
 @inproceedings{yu2023rf,
   title={Highly-efficient Robinson-Foulds distance estimation with matrix correction},
   author={Yu, Fangchen and Bao, Rui and Mao, Jianfeng and Li, Wenye},
   booktitle={26th European Conference on Artificial Intelligence},
+  pages={2914--2921},
   year={2023}
 }
 ```
